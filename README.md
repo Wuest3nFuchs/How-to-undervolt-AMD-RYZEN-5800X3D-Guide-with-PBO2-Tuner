@@ -165,7 +165,7 @@ Set higher Baseclock (really not recommended if you don't exactly know what it d
 
 
 
---------------------------------------------------------------------------Deutsche Übersetzung-------------------------------------------------------------
+------------------------------------------------------------------------Deutsche Übersetzung-------------------------------------------------------------
 
 
 Wie man AMD RYZEN 5800X3D mit dem PBO2 Tuner "undervolted".
