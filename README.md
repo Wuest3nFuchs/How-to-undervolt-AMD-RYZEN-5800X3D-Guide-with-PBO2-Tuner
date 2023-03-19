@@ -154,5 +154,12 @@ Get a better CPU cooler.
 Set higher Baseclock (really not recommended if you don't exactly know what it does and what Problems can be caused by it)
 # 9) Resources used
 - https://www.overclock.net/threads/corecycler-tool-for-testing-curve-optimizer-settings.1777398/
-
 - https://www.overclock.net/threads/5800x3d-owners.1798046/
+
+
+Applies a CO [Curve Optimizer] offset of -30[~150mV] to all cores
+
+Arguments
+-30 -30 -30 -30 -30 -30 -30 -30 95 60 90 0
+
+
