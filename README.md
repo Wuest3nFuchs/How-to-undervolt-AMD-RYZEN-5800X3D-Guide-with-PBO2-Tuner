@@ -81,6 +81,12 @@ Create the Action for PBO2 tuner.exe to start with the Offsets as Startup argume
 ![Chapter 6 p4_LI](https://user-images.githubusercontent.com/106172193/170519780-4835e046-82fc-49fe-8a9f-e1ded1144638.jpg)
 
 Set the Conditions and Settings tab.
+Applies a CO [Curve Optimizer] offset of -30[~150mV] to all cores
+
+Arguments
+-30 -30 -30 -30 -30 -30 -30 -30 95 60 90 0
+
+-30 is for the curve optimizer -95=PPT -60=TDC -90=EDC 0= FIT scalar
 
 ![Chapter 6 p5](https://user-images.githubusercontent.com/106172193/170519955-8fd6d69b-36ec-4e1c-b7b8-906fda4a28ac.png)
 
@@ -155,11 +161,3 @@ Set higher Baseclock (really not recommended if you don't exactly know what it d
 # 9) Resources used
 - https://www.overclock.net/threads/corecycler-tool-for-testing-curve-optimizer-settings.1777398/
 - https://www.overclock.net/threads/5800x3d-owners.1798046/
-
-
-Applies a CO [Curve Optimizer] offset of -30[~150mV] to all cores
-
-Arguments
--30 -30 -30 -30 -30 -30 -30 -30 95 60 90 0
-
-
