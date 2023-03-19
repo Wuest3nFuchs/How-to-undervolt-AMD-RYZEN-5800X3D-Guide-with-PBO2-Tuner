@@ -162,7 +162,11 @@ Set higher Baseclock (really not recommended if you don't exactly know what it d
 - https://www.overclock.net/threads/corecycler-tool-for-testing-curve-optimizer-settings.1777398/
 - https://www.overclock.net/threads/5800x3d-owners.1798046/
 
-Deutsche Übersetzung
+
+
+
+--------------------------------------------------------------------------Deutsche Übersetzung-------------------------------------------------------------------------
+
 
 Wie man AMD RYZEN 5800X3D mit dem PBO2 Tuner "undervolted".
 
